@@ -1,7 +1,7 @@
 # High Speed 1
 High Speed 1 from London St Pancras International to Southfleet International.
 
-![Image of Current State of Map](Images/High Speed 1.bmp)
+![Image of Current State of Map](Images/High_Speed_1.bmp)
 
 ## Current Status
 
