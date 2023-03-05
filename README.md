@@ -18,6 +18,6 @@ High Speed 1 from London St Pancras International to Southfleet International.
 
 ## Data Sources
 
-- RealTimeTrains
-- OpenRailwayMap
-- Traksy
+- [RealTimeTrains](https://www.realtimetrains.co.uk/)
+- [Traksy](https://traksy.uk/live)
+- [OpenRailwayMap](https://www.openrailwaymap.org/)
